@@ -1,0 +1,20 @@
+{
+  "name": "queue-queu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/client": "^3.3.6",
+    "amqplib": "^0.6.0",
+    "apollo-server": "^2.19.1",
+    "cross-fetch": "^3.0.6",
+    "graphql": "^15.4.0"
+  }
+}
